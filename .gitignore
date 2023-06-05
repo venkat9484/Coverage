@@ -1,0 +1,28 @@
+target
+.classpath
+.factorypath
+.settings
+.project
+*.iml
+*.ipr
+*.iws
+work
+nbactions.xml
+nb-configuration.xml
+release.properties
+pom.xml.releaseBackup
+.idea
+*.sublime-project
+*.sublime-workspace
+
+# vim
+*.swp
+Session.vim
+tags
+/nbproject/
+
+# emacs
+TAGS
+
+# Jenkins incrementals builds
+.@tmp/
